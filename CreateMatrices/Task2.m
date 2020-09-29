@@ -1,1 +1,0 @@
-result_matrix = ones(5) * 2
